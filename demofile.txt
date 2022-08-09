@@ -1,0 +1,5 @@
+
+e-001 leche 3 6 18
+e-001 leche 4 6 24
+e-003 arroz 4 5 20
+e-005 fideo 3 3 9
